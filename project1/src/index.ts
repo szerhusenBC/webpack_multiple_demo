@@ -1,5 +1,6 @@
 import {formatNumber, ParsedNumber} from "libphonenumber-js";
 import {My2} from "./AnotherClass";
+import {My} from "../../project2/src/index";
 
 namespace My1.Project1 {
 
@@ -15,6 +16,8 @@ namespace My1.Project1 {
 
          console.log(foo);
          console.log(formattedNumber);
+
+         console.log(new My.Project2.MyClass().someMethod());
       }
    }
 
