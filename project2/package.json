@@ -13,8 +13,8 @@
     "libphonenumber-js": "^1.7.7"
   },
   "devDependencies": {
-    "rimraf": "^2.6.3",
-    "ts-loader": "^5.3.3",
+    "rimraf": "^3.0.0",
+    "ts-loader": "^6.0.4",
     "typescript": "^3.2.2",
     "webpack": "^4.28.4",
     "webpack-cli": "^3.2.1"
