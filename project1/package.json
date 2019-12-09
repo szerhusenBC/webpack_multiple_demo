@@ -10,13 +10,13 @@
   "author": "Stephan Zerhusen",
   "license": "MIT",
   "dependencies": {
-    "libphonenumber-js": "^1.7.7"
+    "libphonenumber-js": "^1.7.29"
   },
   "devDependencies": {
     "rimraf": "^3.0.0",
-    "ts-loader": "^6.0.4",
-    "typescript": "^3.2.2",
-    "webpack": "^4.28.4",
-    "webpack-cli": "^3.2.1"
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.3",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
   }
 }
